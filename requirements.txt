@@ -1,0 +1,8 @@
+requests
+html5lib
+bs4
+pandas
+nltk
+XlsxWriter
+openpyxl
+xlrd

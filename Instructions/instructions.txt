@@ -1,0 +1,24 @@
+* create virtual environment
+
+$ conda create -n blackcoffer
+$ conda activate blackcoffer
+
+
+* Install package management system
+
+$ conda install pip3
+
+
+* Install other packages with the help of pip
+
+$ pip install -r requirements.txt
+
+
+* Run data extraction code
+
+$ python3 data_extraction_code.py
+
+
+* Run text analysis code
+
+$ python3 text_analysis_code.py
